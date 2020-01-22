@@ -2,6 +2,7 @@ package com.example;
 
 public class TestExample {
 
+	
  static  int i=5;
    
  
